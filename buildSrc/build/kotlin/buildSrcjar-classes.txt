@@ -1,0 +1,1 @@
+D:\android job\work\frame\buildSrc\build\classes\kotlin\main\Configs$props$2.class;D:\android job\work\frame\buildSrc\build\classes\kotlin\main\Configs.class;D:\android job\work\frame\buildSrc\build\classes\kotlin\main\Flavors.class;D:\android job\work\frame\buildSrc\build\classes\kotlin\main\Versions.class
