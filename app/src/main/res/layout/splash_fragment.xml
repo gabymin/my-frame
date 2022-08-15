@@ -9,7 +9,7 @@
 
         <variable
             name="viewModel"
-            type="com.westig.frame.ui.splash.SplashViewModel" />
+            type="com.guaniu.benben.ui.splash.SplashViewModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

@@ -1,7 +1,7 @@
 import java.io.File
 import java.util.*
 object Configs {
-    const val applicationId = "com.westig.frame"
+    const val applicationId = "com.guaniu.benben"
     const val versionCode = 100
     const val versionName = "1.0.0"
 
